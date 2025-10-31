@@ -2,7 +2,7 @@ package Atividades;
 
 import java.util.Scanner;
 
-public class CheckPar {
+public class Parouimpar {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
