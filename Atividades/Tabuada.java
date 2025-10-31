@@ -15,7 +15,8 @@ public class Tabuada {
 			result=i*num;
 			System.out.println(num+"*"+i+"="+result);
 		}
-
+		
+		sc.close(); // Fecha o Scanner após o uso
 	}
 
 }
